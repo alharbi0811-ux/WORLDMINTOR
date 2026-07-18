@@ -1,0 +1,47 @@
+{
+  "app": {
+    "title": "WORLDMINTOR",
+    "subtitle": "استخبارات عسكرية وسياسية",
+    "live": "مباشر",
+    "lastUpdated": "آخر تحديث",
+    "loading": "جاري تحميل الأخبار...",
+    "noResults": "لا توجد مقالات",
+    "retry": "إعادة المحاولة",
+    "error": "فشل في تحميل البيانات"
+  },
+  "nav": {
+    "all": "الكل",
+    "military": "عسكري",
+    "political": "سياسي",
+    "conflicts": "نزاعات"
+  },
+  "filters": {
+    "region": "المنطقة",
+    "allRegions": "جميع المناطق",
+    "middleEast": "الشرق الأوسط",
+    "europe": "أوروبا",
+    "asia": "آسيا",
+    "africa": "أفريقيا",
+    "americas": "الأمريكتين"
+  },
+  "card": {
+    "readMore": "قراءة المقال كاملاً",
+    "source": "المصدر",
+    "critical": "حرج",
+    "high": "مرتفع",
+    "medium": "متوسط",
+    "low": "منخفض"
+  },
+  "map": {
+    "title": "خريطة الوضع العالمي",
+    "conflicts": "نزاعات نشطة",
+    "military": "نشاط عسكري",
+    "political": "أحداث سياسية"
+  },
+  "stats": {
+    "activeConflicts": "نزاعات نشطة",
+    "militaryOps": "عمليات عسكرية",
+    "politicalEvents": "أحداث سياسية",
+    "countriesTracked": "دول مراقبة"
+  }
+}
