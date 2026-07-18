@@ -1,0 +1,47 @@
+{
+  "app": {
+    "title": "WORLDMINTOR",
+    "subtitle": "Military & Political Intelligence",
+    "live": "LIVE",
+    "lastUpdated": "Last updated",
+    "loading": "Loading intelligence feed...",
+    "noResults": "No articles found",
+    "retry": "Retry",
+    "error": "Failed to load data"
+  },
+  "nav": {
+    "all": "All",
+    "military": "Military",
+    "political": "Political",
+    "conflicts": "Conflicts"
+  },
+  "filters": {
+    "region": "Region",
+    "allRegions": "All Regions",
+    "middleEast": "Middle East",
+    "europe": "Europe",
+    "asia": "Asia",
+    "africa": "Africa",
+    "americas": "Americas"
+  },
+  "card": {
+    "readMore": "Read full article",
+    "source": "Source",
+    "critical": "Critical",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+  "map": {
+    "title": "Global Situation Map",
+    "conflicts": "Active Conflicts",
+    "military": "Military Activity",
+    "political": "Political Events"
+  },
+  "stats": {
+    "activeConflicts": "Active Conflicts",
+    "militaryOps": "Military Ops",
+    "politicalEvents": "Political Events",
+    "countriesTracked": "Countries Tracked"
+  }
+}
